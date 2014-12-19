@@ -1,4 +1,5 @@
 require 'xmlrpc/client'
+require 'openssl'
 
 module Confluence # :nodoc:
   # = Confluence::Client - Ruby client for the Confluence XML::RPC API.
